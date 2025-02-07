@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: networkSecurity
+Version: 0.0.1
+Author: Garv Khurana
+Author-email: garvkhurana1234567@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: pymongo
+Requires-Dist: numpy
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
